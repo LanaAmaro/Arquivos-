@@ -1,1 +1,3 @@
 Antes não tinha qualquer informação aqui.
+
+Testando alguns comandos pelo bash.
